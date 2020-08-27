@@ -1,0 +1,25 @@
+[2019-11-20 10:08:47] INFO: GTDB-Tk v0.2.2
+[2019-11-20 10:08:47] INFO: gtdbtk classify_wf --cpus 20 --genome_dir 7468_GTDBtk_bins.fa --out_dir outfile_gtdbtk2_SB --extension fa
+[2019-11-20 10:08:47] WARNING: Results are still being validated and taxonomic assignments may be incorrect! Use at your own risk!
+[2019-11-20 10:08:47] INFO: Identifying markers in 84 genomes with 20 threads.
+[2019-11-20 10:08:47] INFO: Running Prodigal to identify genes.
+[2019-11-20 10:10:52] INFO: Identifying TIGRFAM protein families.
+[2019-11-20 10:11:34] INFO: Identifying Pfam protein families.
+[2019-11-20 10:11:43] INFO: Done.
+[2019-11-20 10:11:44] INFO: Aligning markers in 84 genomes with 20 threads.
+[2019-11-20 10:11:45] INFO: Processing 84 genomes identified as bacterial.
+[2019-11-20 10:11:51] INFO: Read concatenated alignment for 17413 GTDB genomes.
+[2019-11-20 10:12:16] INFO: Masking columns of multiple sequence alignment using canonical mask.
+[2019-11-20 10:12:53] INFO: Masked alignment from 41155 to 5035 AA.
+[2019-11-20 10:12:53] INFO: 0 user genomes have amino acids in <10.0% of columns in filtered MSA.
+[2019-11-20 10:12:53] INFO: Creating concatenated alignment for 17497 GTDB and user genomes.
+[2019-11-20 10:12:53] INFO: Creating concatenated alignment for 84 user genomes.
+[2019-11-20 10:12:53] INFO: Done.
+[2019-11-20 10:12:53] INFO: Placing 84 bacterial genomes into reference tree with pplacer (be patient).
+[2019-11-20 10:46:46] INFO: Calculating Average Nucleotide Identity using FastANI.
+[2019-11-20 10:47:22] INFO: 2 genomes have been classify using FastANI and Pplacer.
+[2019-11-20 10:47:22] INFO: Reading tree.
+[2019-11-20 10:47:25] INFO: Reading taxonomy from file.
+[2019-11-20 10:47:25] INFO: Identified 35 phyla.
+[2019-11-20 10:47:25] INFO: Using 35 phyla as rootings for inferring RED distributions.
+[2019-11-20 10:51:07] INFO: Done.
