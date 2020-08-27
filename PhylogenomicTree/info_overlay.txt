@@ -1,0 +1,84 @@
+genome_id	phylum	class	order	completeness
+SB_biofilm_MAG_1-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	100
+SB_biofilm_MAG_10-MAP.txt	Cyanobacteriota	Cyanobacteriia	Phormidesmiales	98.64
+SB_biofilm_MAG_11-MAP.txt	Bacteroidota	Bacteroidia	Chitinophagales	98.64
+SB_biofilm_MAG_12-MAP.txt	Proteobacteria	Alphaproteobacteria		98.6
+SB_biofilm_MAG_13-MAP.txt	Proteobacteria	Alphaproteobacteria	Rhizobiales	98.39
+SB_biofilm_MAG_14-MAP.txt	Bacteroidota			98.36
+SB_biofilm_MAG_15-MAP.txt	Bacteroidota	Bacteroidia	Flavobacteriales	98.3
+SB_biofilm_MAG_16-MAP.txt	Proteobacteria	Alphaproteobacteria	Rhodobacterales	98.28
+SB_biofilm_MAG_17-MAP.txt	Chloroflexota	Anaerolineae	SBR1031	98.18
+SB_biofilm_MAG_18-MAP.txt	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	97.96
+SB_biofilm_MAG_19-MAP.txt	Proteobacteria	Alphaproteobacteria	Caulobacterales	97.89
+SB_biofilm_MAG_2-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	100
+SB_biofilm_MAG_20-MAP.txt	Proteobacteria	Gammaproteobacteria		97.74
+SB_biofilm_MAG_21-MAP.txt	Proteobacteria	Alphaproteobacteria		97.61
+SB_biofilm_MAG_22-MAP.txt	Proteobacteria	Alphaproteobacteria	Caulobacterales	97.52
+SB_biofilm_MAG_23-MAP.txt	Verrucomicrobiota	Verrucomicrobiae	Chthoniobacterales	97.47
+SB_biofilm_MAG_24-MAP.txt	Proteobacteria	Alphaproteobacteria		96.96
+SB_biofilm_MAG_25-MAP.txt	Proteobacteria	Alphaproteobacteria	Caulobacterales	96.62
+SB_biofilm_MAG_26-MAP.txt	Planctomycetota	Phycisphaerae	Phycisphaerales	96.59
+SB_biofilm_MAG_27-MAP.txt	Proteobacteria	Alphaproteobacteria		96.55
+SB_biofilm_MAG_28-MAP.txt	Myxococcota	Polyangia	Polyangiales	96.2
+SB_biofilm_MAG_29-MAP.txt	Proteobacteria	Alphaproteobacteria	Caulobacterales	96.17
+SB_biofilm_MAG_3-MAP.txt	Bacteroidota	Bacteroidia	Flavobacteriales	100
+SB_biofilm_MAG_30-MAP.txt	BRC1	UBA8349		96.07
+SB_biofilm_MAG_31-MAP.txt	Proteobacteria	Gammaproteobacteria	UBA1113	95.93
+SB_biofilm_MAG_32-MAP.txt	Proteobacteria	Alphaproteobacteria	Kiloniellales	95.87
+SB_biofilm_MAG_33-MAP.txt	Planctomycetota	Planctomycetes	Pirellulales	95.64
+SB_biofilm_MAG_34-MAP.txt	Cyanobacteriota	Cyanobacteriia	Pseudophormidiales	95.24
+SB_biofilm_MAG_35-MAP.txt	Proteobacteria	Alphaproteobacteria	Micavibrionales	94.79
+SB_biofilm_MAG_36-MAP.txt	Verrucomicrobiota	Chlamydiia	Parachlamydiales	94.76
+SB_biofilm_MAG_37-MAP.txt	Planctomycetota	Planctomycetes	Planctomycetales	94.44
+SB_biofilm_MAG_38-MAP.txt	Planctomycetota	Planctomycetes	Pirellulales	94.19
+SB_biofilm_MAG_39-MAP.txt	Bacteroidota	Bacteroidia	Flavobacteriales	94.09
+SB_biofilm_MAG_4-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	100
+SB_biofilm_MAG_40-MAP.txt	Proteobacteria	Alphaproteobacteria	Rhizobiales	93.7
+SB_biofilm_MAG_41-MAP.txt	Proteobacteria	Gammaproteobacteria	Nevskiales	93.05
+SB_biofilm_MAG_42-MAP.txt	Bacteroidota	Bacteroidia	Flavobacteriales	92.94
+SB_biofilm_MAG_43-MAP.txt	Myxococcota	UBA796	UBA796	92.86
+SB_biofilm_MAG_44-MAP.txt	Proteobacteria	Gammaproteobacteria	Pseudomonadales	92.75
+SB_biofilm_MAG_45-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	92.69
+SB_biofilm_MAG_46-MAP.txt	Bacteroidota	Bacteroidia	Chitinophagales	92.17
+SB_biofilm_MAG_47-MAP.txt	Proteobacteria	Alphaproteobacteria	Rhodobacterales	91.98
+SB_biofilm_MAG_48-MAP.txt	Myxococcota	UBA796	UBA796	91.77
+SB_biofilm_MAG_49-MAP.txt	Planctomycetota	Phycisphaerae	Phycisphaerales	91.46
+SB_biofilm_MAG_5-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	99.7
+SB_biofilm_MAG_50-MAP.txt	Proteobacteria	Alphaproteobacteria	Sphingomonadales	91.27
+SB_biofilm_MAG_51-MAP.txt	Proteobacteria	Alphaproteobacteria	Micavibrionales	91.25
+SB_biofilm_MAG_52-MAP.txt	Verrucomicrobiota	Verrucomicrobiae	Opitutales	90.39
+SB_biofilm_MAG_53-MAP.txt	Planctomycetota	UBA1135	UBA1135	90.32
+SB_biofilm_MAG_54-MAP.txt	Cyanobacteriota	Cyanobacteriia	Cyanobacteriales	90.24
+SB_biofilm_MAG_55-MAP.txt	Bacteroidota	Bacteroidia	Chitinophagales	90.02
+SB_biofilm_MAG_56-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	89.68
+SB_biofilm_MAG_57-MAP.txt	Proteobacteria	Alphaproteobacteria	Parvibaculales	89.07
+SB_biofilm_MAG_58-MAP.txt	Proteobacteria	Alphaproteobacteria	Rhodobacterales	88.38
+SB_biofilm_MAG_59-MAP.txt	Myxococcota	UBA796	UBA796	87.99
+SB_biofilm_MAG_6-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	99.55
+SB_biofilm_MAG_60-MAP.txt	Planctomycetota	Planctomycetes	Pirellulales	87.96
+SB_biofilm_MAG_61-MAP.txt	Verrucomicrobiota	Verrucomicrobiae	Methylacidiphilales	87.75
+SB_biofilm_MAG_62-MAP.txt	Bacteroidota	Bacteroidia	Chitinophagales	87.54
+SB_biofilm_MAG_63-MAP.txt	Proteobacteria	Alphaproteobacteria		82.92
+SB_biofilm_MAG_64-MAP.txt	Proteobacteria	Alphaproteobacteria	Rhodobacterales	82.86
+SB_biofilm_MAG_65-MAP.txt	Proteobacteria	Gammaproteobacteria	Pseudomonadales	81.03
+SB_biofilm_MAG_66-MAP.txt	Planctomycetota	Phycisphaerae	Phycisphaerales	80.61
+SB_biofilm_MAG_67-MAP.txt	Proteobacteria	Alphaproteobacteria	Kiloniellales	79.96
+SB_biofilm_MAG_68-MAP.txt	Proteobacteria	Gammaproteobacteria	Pseudomonadales	77.93
+SB_biofilm_MAG_69-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	77.56
+SB_biofilm_MAG_7-MAP.txt	Planctomycetota	Phycisphaerae	Phycisphaerales	98.86
+SB_biofilm_MAG_70-MAP.txt	Proteobacteria	Alphaproteobacteria		75.64
+SB_biofilm_MAG_71-MAP.txt	Hydrogenedentota	Hydrogenedentia	Hydrogenedentiales	72.03
+SB_biofilm_MAG_72-MAP.txt	Proteobacteria	Gammaproteobacteria	Pseudomonadales	71.9
+SB_biofilm_MAG_73-MAP.txt	Chloroflexota	Anaerolineae	SBR1031	71.84
+SB_biofilm_MAG_74-MAP.txt	Proteobacteria	Alphaproteobacteria	Rhodobacterales	67.74
+SB_biofilm_MAG_75-MAP.txt	Proteobacteria	Alphaproteobacteria	Caulobacterales	67.05
+SB_biofilm_MAG_76-MAP.txt	Planctomycetota	Phycisphaerae	Phycisphaerales	65.55
+SB_biofilm_MAG_77-MAP.txt	Proteobacteria	Alphaproteobacteria	Rhizobiales	65.33
+SB_biofilm_MAG_79-MAP.txt	Proteobacteria	Alphaproteobacteria	Micavibrionales	64.15
+SB_biofilm_MAG_8-MAP.txt	Verrucomicrobiota	Verrucomicrobiae		98.65
+SB_biofilm_MAG_80-MAP.txt	Proteobacteria	Alphaproteobacteria	Micavibrionales	56.55
+SB_biofilm_MAG_81-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	53.92
+SB_biofilm_MAG_82-MAP.txt	Planctomycetota	Phycisphaerae	Phycisphaerales	51.75
+SB_biofilm_MAG_83-MAP.txt	Bacteroidota	Bacteroidia	Cytophagales	51.13
+SB_biofilm_MAG_84-MAP.txt	Bacteroidota			50.26
+SB_biofilm_MAG_9-MAP.txt	Verrucomicrobiota	Verrucomicrobiae	Opitutales	98.65
