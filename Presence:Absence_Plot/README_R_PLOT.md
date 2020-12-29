@@ -5,7 +5,7 @@
  
 >Note: I am using R version 3.6.0. 
 
-I gathered gene count data for 6 genes I was interested in that are involved in the processes of production and degradation of sulfated polysaccharides. <span style="background-color: #FFFF00">Highlighted</span> are the genes whose PFAM IDs were initially gathered from JGI IMG and the used to blast. All other genes had PFAM hits directly taken from NCBI BLAST. 
+I gathered gene count data for 6 genes I was interested in that are involved in the processes of production and degradation of sulfated polysaccharides. <b>Bolded</b> are the genes whose PFAM IDs were initially gathered from JGI IMG and the used to blast. All other genes had PFAM hits directly taken from NCBI BLAST. 
 
 | Gene          | Production/ Degradation               |
 | ----------------- |:----------------------- |
