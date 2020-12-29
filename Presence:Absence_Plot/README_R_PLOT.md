@@ -10,7 +10,7 @@ I gathered gene count data for 6 genes I was interested in that are involved in 
 | Gene          | Production/ Degradation               |
 | ----------------- |:----------------------- |
 | Sulfotransferase      | Production   |
-| ==Glycosyltransferase== | Production    |
+| == Glycosyltransferase == | Production    |
 | Polysaccharide exporter         | Production     |
 | Sulfatase       | Degradation    | 
 | ==Glycosyl hydrolase==   | Degradation |
