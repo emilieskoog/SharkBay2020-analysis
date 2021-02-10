@@ -1,6 +1,4 @@
-# SharkBay2020-analysis
-
-## Microbial cycling of sulfated polysaccharides in peritidal pustular mats in Shark Bay, Australia
+# Microbial cycling of sulfated polysaccharides in peritidal pustular mats in Shark Bay, Australia
 
 In an effort to make data workflows and findings more accessible and reproducible within the field, I have made a strong effort to include all scripts and files used within this study. Raw and assembled metagenomic data can be accessed at dx.doi.org/10.5281/zenodo.3874996.  These scripts can (and should) also be used (and improved!) and adapted to your own datasets, should they be helpful. 
 
