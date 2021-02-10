@@ -1,6 +1,6 @@
 # SharkBay2020-analysis
 
-###Microbial cycling of sulfated polysaccharides in peritidal pustular mats in Shark Bay, Australia
+### Microbial cycling of sulfated polysaccharides in peritidal pustular mats in Shark Bay, Australia
 
 Within this directory, you will find all scripts and data used to generate findings.
 
